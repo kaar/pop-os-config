@@ -56,6 +56,8 @@ Categories=System;
 
 Dewin's computer is not running with UEFI so efibootmgr does not work. Have to update BIOS.
 
+* [eifbootmgr failing](https://chatgpt.com/c/68b1970a-45dc-8332-b828-8d08a8645cc3)
+
 
 ## Upgrade to Windows 11
 
